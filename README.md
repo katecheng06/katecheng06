@@ -3,7 +3,7 @@
 ### 🎓 About Me
 - **Major:** Mathematics and Information Engineering (MIE) @ **CUHK**
 - **Interests:** Data Logic, Algorithmic Problem Solving, and Linguistic Exploration.
-- **Ti-driven:** I enjoy building systems from the ground up and diving deep into logical frameworks.
+- **Logic-oriented:** I enjoy building systems from the ground up and diving deep into logical frameworks.
 
 ---
 
